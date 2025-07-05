@@ -1,4 +1,6 @@
-<img src="assets/flowsense-team-logo.png" alt="Team Logo" width="200"/>
+<div align="center">
+  <img src="assets/flowsense-team-logo.png" alt="Team Logo" width="200"/>
+</div>
 
 # Team FlowSense
 
